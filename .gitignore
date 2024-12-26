@@ -3,3 +3,7 @@ other/
 ~*
 __pycache__
 pliki_od_promo
+data/raw
+notebooks/archive
+venv
+__pycache__

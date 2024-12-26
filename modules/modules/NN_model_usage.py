@@ -3,8 +3,8 @@ import torch.nn as nn
 import numpy as np
 import matplotlib.pyplot as plt
 import os
-from NN_data_prep import plot_time_series
-from NN_models import LSTMForecaster, LSTMAttentionForecaster
+from .NN_data_prep import plot_time_series
+from .NN_models import LSTMForecaster, LSTMAttentionForecaster
 
 
 def train_model(model, X, Y,  training_series_length=None, epochs=100):
@@ -60,7 +60,7 @@ def create_saving_path(
     # filename = 'pred_seg_len_' + str(seq_len) + '.png'
     filename = f'pred_seg_len_{seq_len:02d}' + '.png'
     path_to_file = os.path.join(
-        'images', 
+        '../images', 
         folder,
         subfolder,
         series_name, 
