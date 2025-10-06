@@ -6,7 +6,7 @@ Documentation was obtained form children's hospital Intensive Care Unit.\
 Work included:
 
 1. parameters medical meaning determination
-2. conversion of rand-written symbolic and numeric records to numerical dataset of time series
+2. conversion of hand-written symbolic and numeric records to numerical dataset of time series
 3. dataset processing pipeline (visualisations, cleaning, interpolation, adaptation for ML usage)
 4. Determination of how moments when a child's condition becomes unstable
    or deteriorate are reflected in the data (how anomalies look like)
