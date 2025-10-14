@@ -7,3 +7,5 @@ data/raw
 notebooks/archive
 venv
 __pycache__
+converted_notebooks/
+source_code.zip

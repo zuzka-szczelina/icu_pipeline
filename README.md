@@ -12,5 +12,5 @@ Work included:
    or deteriorate are reflected in the data (how anomalies look like)
 5. usage of obtaied time series as RNN training data (anomalies detection trial)
 
-At all stages multiple consultaitons were needed with an experienced nurse
+At all stages multiple consultations were needed with an experienced nurse
 working in the Intensive Care Unit from which the data were obtained.
