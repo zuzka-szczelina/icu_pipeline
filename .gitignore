@@ -3,7 +3,8 @@ other/
 ~*
 __pycache__
 pliki_od_promo
-data/raw/karty.pdf
+data/raw/cards.pdf
+data/raw/cards_untidy.xlsx
 notebooks/archive
 venv
 __pycache__
