@@ -19,7 +19,7 @@ for medical purposes and provide a basis for further work with analogous data ex
 
 ## How to read
 
-- Toget familiar with results, theoretical introduction and description in the form of article one should read the [paper](https://github.com/zuzka-szczelina/icu_pipeline/tree/master/engineering_thesis_paper),
+- To get familiar with results, theoretical introduction and description in the form of article one should read the [paper](https://github.com/zuzka-szczelina/icu_pipeline/tree/master/engineering_thesis_paper),
 which is my engineering thesis paper  (written in polish).
 - To get familiar with the code work one should read the content of [notebooks](https://github.com/zuzka-szczelina/icu_pipeline/tree/master/source_code/notebooks) one after another. 
 Notebooks are numbered and explanations of successive steps is provided in each notebook.
@@ -27,7 +27,7 @@ Notebooks are numbered and explanations of successive steps is provided in each 
 
 ## Paper content
 
-1. Introduction
+1. Introduction\
 1.1 Origin of the Data \
 1.2 Description of Selected Medical Parameters\
 1.3 Formal Requirements When Working with Medical Data\
