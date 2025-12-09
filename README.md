@@ -91,7 +91,7 @@ Scaterrplot matrix was created to briefly explore correlation between parameters
 It was not certain whether we would receive medical records of more patients. For this reason an attempt to data augmentation was made.\
 Augmentation method that was used bases on altering the original series. Alteration was done by performing Fast Fourier Transform of the series, adding a random noise to frequency spectrum and performing Reverse Fast Fourier Transform to achieve modified series.
 9. Anomalous conditions prediction: forecasting without finetuning.\
-The idea behind the work was to simulate the situation when:\
+The idea behind the work was to simulate the situation when:
 - I. First, for specified number of hours patients observation data are collected
 - II. Then the Neural Network (NN) is trained on collected data
 - III. For further time steps NN predicts an expected parameter value and the real value is collected simultaneously
